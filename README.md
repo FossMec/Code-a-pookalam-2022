@@ -1,6 +1,8 @@
 # Code-a-pookalam-2022(open for submissions)
 Code-A-Pookalam is an online event where you design and create a pookalam via code.The event is held in collaboration with FOSSMEC and Tinkerhub MEC.
  So folks, Design a pookalam and show your creativity to the world!
+ 
+### Refer the [guidelines](https://docs.google.com/document/d/1b2BC_-m0lXCr7vZFF-9WeRaaUnt_XeYnkuzx612CUx0/edit?usp=sharing) of Code-a-pookalam 2022.
 
 ## Rules
 1. A design can be made using python or any scripting language. You may also use web languages like CSS or JS too.
@@ -10,6 +12,8 @@ Code-A-Pookalam is an online event where you design and create a pookalam via co
 4. A contestant can give only one entry.
 5. Try to use only as minimum dependencies as possible. Any dependencies to run the code must be specified in a Requirements.txt.
 6. Place a pull request to submit your entries. A merged request is an accepted entry.
+
+### Refer the [submission guidelines](https://docs.google.com/document/d/1PkEqCy1y7qH9qR7k81I5nEG66zoWVslUT3vy51JAh7Y/edit?usp=sharing)
 
 **Last Date :** Extended to 13th of September 2022 11:59 PM.
 
