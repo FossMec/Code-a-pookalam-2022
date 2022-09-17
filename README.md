@@ -1,4 +1,4 @@
-# Code-a-pookalam-2022(open for submissions)
+# Code-a-pookalam-2022(Competition Ended)
 Code-A-Pookalam is an online event where you design and create a pookalam via code.The event is held in collaboration with FOSSMEC and Tinkerhub MEC.
  So folks, Design a pookalam and show your creativity to the world!
  
